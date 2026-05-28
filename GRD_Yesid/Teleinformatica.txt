@@ -1,0 +1,9 @@
+AR-Pinzon
+Taller N.6 -Ingreso y salida de Datos
+Dentro del Directorio local debe reposar los archivos correspondientes al desarrollo del taller N.6 de Programación
+AR-Pinzon
+GRD_Yesid
+Teleinformatica.txt
+CGMLTI.txt
+Taller.N6
+Ficheros correspondientes
